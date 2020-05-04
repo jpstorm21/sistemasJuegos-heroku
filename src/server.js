@@ -99,7 +99,7 @@ if (_routes.basename != '') {
   });
 }
 
-var port = process.env.NODE_PORT || 5000;
+var port = process.env.PORT || 5000;
 app.listen(port, function (err) {
   console.log(err || "Server is running on port ".concat(port));
 });
