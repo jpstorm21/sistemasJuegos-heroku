@@ -1,6 +1,6 @@
 {
-  "hostname": "http://localhost:9006",
-  "basename": "https://app-sistema-videojuegos.herokuapp.com/",
+  "hostname": "https://app-sistema-videojuegos.herokuapp.com",
+  "basename": "https://app-sistema-videojuegos.herokuapp.com",
   "staticPath": "",
   "uploadPath": "upload",
   "staticFolderPath": "src/static",
